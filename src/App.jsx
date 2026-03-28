@@ -11,6 +11,7 @@ import ProductCategories from './components/ProductCategories';
 import CatalogHighlight  from './components/CatalogHighlight';
 import LocationsSection  from './components/LocationsSection';
 import ContactSection    from './components/ContactSection';
+import ReviewsSection    from './components/ReviewsSection';
 
 export default function App() {
   const [loading, setLoading] = useState(true);
@@ -44,6 +45,7 @@ export default function App() {
             <ProductCategories />
             <CatalogHighlight />
             <LocationsSection />
+            <ReviewsSection />
             <ContactSection />
           </main>
           <Footer />
