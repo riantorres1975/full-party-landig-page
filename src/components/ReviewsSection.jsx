@@ -176,7 +176,7 @@ export default function ReviewsSection() {
           </h2>
           {/* Rating global */}
           <div className="flex items-center justify-center gap-2 mb-2">
-            <span className="font-display text-4xl text-gray-800">4.9</span>
+            <span className="font-display text-4xl text-gray-800">4.7</span>
             <div className="flex flex-col items-start gap-0.5">
               <div className="flex gap-1">
                 {Array.from({ length: 5 }).map((_, i) => (
