@@ -150,7 +150,7 @@ export default function ReviewsSection() {
 
   const { prev1, next1 } = getVisible();
 
-  const GOOGLE_MAPS_URL = 'https://share.google/pzGvt1rPsEYLuY6y9';
+  const GOOGLE_MAPS_URL = 'https://www.google.com/maps/place/Full+Party+Uruapan+Suc+Sol+Naciente/data=!4m2!3m1!1s0x0:0x5158156fe2efca48?sa=X&ved=1t:2428&ictx=111';
 
   return (
     <section
