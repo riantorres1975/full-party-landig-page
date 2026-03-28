@@ -150,7 +150,7 @@ export default function ReviewsSection() {
 
   const { prev1, next1 } = getVisible();
 
-  const GOOGLE_MAPS_URL = 'https://maps.google.com/?q=Full+Party+Uruapan'; // 👈 Reemplaza con tu link real
+  const GOOGLE_MAPS_URL = 'https://share.google/pzGvt1rPsEYLuY6y9';
 
   return (
     <section
